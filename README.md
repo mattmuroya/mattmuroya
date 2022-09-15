@@ -4,8 +4,8 @@
 </div>
 
 <div align="center">
-  <img  src="https://streak-stats.demolab.com/?user=mattmuroya&theme=gotham&hide_border=false&background=00000000&dates=2AA789" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattmuroya&hide_border=false&bg_color=00000000&&title_color=599BAA&text_color=2AA789&langs_count=8&hide=procfile&layout=compact" />
+  <img  src="https://streak-stats.demolab.com/?user=mattmuroya&theme=gotham&hide_border=true&background=00000000&dates=2AA789" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattmuroya&hide_border=true&bg_color=00000000&&title_color=599BAA&text_color=2AA789&langs_count=8&hide=procfile&layout=compact" />
 
   <h2>Here's what I've been working on!</h2>
 
