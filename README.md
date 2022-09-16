@@ -1,6 +1,6 @@
 <h1 align="center">✨ Hi, I'm Matt! ✨</h1>
 <div align="center">
-  <p>I'm a technical writer and software developer currently located in Honolulu, HI 🌈</p>
+  <p>I'm a software developer currently located in Honolulu, HI 🌈</p>
 </div>
 
 <div align="center">
