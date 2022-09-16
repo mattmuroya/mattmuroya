@@ -26,7 +26,7 @@
           <img border="1px" src="assets/mattmuroya.com.png">
         </a>
         <h3>mattmuroya.com</h3>
-        <p>Routes and content statically generated from Markdown files using React/Next.js</p>
+        <p>Routes and content statically generated from Markdown files using React/Next.js.</p>
         <p>
           <a href="https://github.com/mattmuroya/mattmuroya.com">GitHub</a> | <a href="https://www.mattmuroya.com/">Demo</a>
         </p>
