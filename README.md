@@ -18,7 +18,7 @@
         <h3>Poet Instant Messenger</h3>
         <p>Full stack React/Node.js chat application in the spirit of the classic IM apps of the late '90s.</p>
         <p>
-          (Note: demo offline due while I explore Heroku alternatives)
+          (Note: demo offline while I explore Heroku alternatives)
         </p>
         <p>
           <a href="https://github.com/mattmuroya/poet">GitHub</a><!-- | <a href="https://poet-instant-messenger.herokuapp.com/">Demo</a>-->
@@ -43,7 +43,7 @@
         <h3>Hawaii State Parks API</h3>
         <p>Python/Flask REST API providing descriptions and park data for each of Hawaii's state parks.</p>
         <p>
-          (Note: demo offline due while I explore Heroku alternatives)
+          (Note: demo offline while I explore Heroku alternatives)
         </p>
         <p>
           <a href="https://github.com/mattmuroya/hawaii-state-parks-api">GitHub</a><!-- | <a href="https://hawaii-state-parks-api.herokuapp.com/">Demo</a>-->
