@@ -1,7 +1,9 @@
+<!--
 <h1 align="center">✨ Hi, I'm Matt! ✨</h1>
 <div align="center">
   <p>Aloha from Honolulu, HI 🌈</p>
 </div>
+-->
 
 <div align="center">
   <img  src="https://streak-stats.demolab.com/?user=mattmuroya&theme=gotham&hide_border=true&background=00000000&dates=2AA789" />
