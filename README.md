@@ -79,7 +79,7 @@
           <img border="1px" src="assets/go.moku.png">
         </a>
         <h3>go.moku</h3>
-        <p>Gomoku, but it's a command line game written in Go. AI opponent coming soon!</p>
+        <p>Gomoku, but it's a command line game written in Go.</p>
         <p>
           <a href="https://github.com/mattmuroya/go.moku">GitHub</a>
         </p>
