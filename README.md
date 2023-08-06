@@ -1,5 +1,6 @@
+<h1 align="center">Hi, I'm Matt! 👨🏻‍💻</h1>
+
 <!--
-<h1 align="center">✨ Hi, I'm Matt! ✨</h1>
 <div align="center">
   <p>Aloha from Honolulu, HI 🌈</p>
 </div>
@@ -7,7 +8,7 @@
 
 <div align="center">
   <img  src="https://streak-stats.demolab.com/?user=mattmuroya&theme=gotham&hide_border=true&background=00000000&dates=2AA789" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mattmuroya&hide_border=true&bg_color=00000000&&title_color=599BAA&text_color=2AA789&langs_count=10&hide=procfile&layout=compact" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mattmuroya&hide_border=true&bg_color=00000000&&title_color=599BAA&text_color=2AA789&langs_count=10&hide=procfile,html,css,scss,ejs,gherkin&layout=compact" />
 
   <h2>Here's what I've been working on!</h2>
 
