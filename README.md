@@ -8,7 +8,8 @@
 
 <div align="center">
   <img  src="https://streak-stats.demolab.com/?user=mattmuroya&theme=gotham&hide_border=true&background=00000000&dates=2AA789" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mattmuroya&hide_border=true&bg_color=00000000&&title_color=599BAA&text_color=2AA789&langs_count=10&hide=procfile,html,css,scss,ejs,gherkin,makefile&layout=compact" />
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattmuroya&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=20&hide=html,css,scss,cmake,gherkin,procfile&exclude_repo=procedural-terrain-generator)](https://github.com/anuraghazra/github-readme-stats)
 
   <h2>Here's what I've been working on!</h2>
 
