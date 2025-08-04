@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Matt! 👨🏻‍💻</h1>
+<h1 align="center">Hi, I'm Matt!</h1>
 
 <!--
 <div align="center">
@@ -11,7 +11,9 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattmuroya&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=10&hide=html,css,scss,cmake,gherkin,procfile&exclude_repo=procedural-terrain-generator)](https://github.com/anuraghazra/github-readme-stats)
 
-  <h2>Here's what I've been working on!</h2>
+
+
+  <!-- <h2>Here's what I've been working on!</h2>
 
   <table>
     <tr valign="top">
@@ -25,7 +27,7 @@
           (Note: demo offline while I explore Heroku alternatives)
         </p>
         <p>
-          <a href="https://github.com/mattmuroya/poet">GitHub</a><!-- | <a href="https://poet-instant-messenger.herokuapp.com/">Demo</a>-->
+          <a href="https://github.com/mattmuroya/poet">GitHub</a>
         </p>
       </td>
       <td width="50%">
@@ -50,7 +52,7 @@
           (Note: demo offline while I explore Heroku alternatives)
         </p>
         <p>
-          <a href="https://github.com/mattmuroya/hawaii-state-parks-api">GitHub</a><!-- | <a href="https://hawaii-state-parks-api.herokuapp.com/">Demo</a>-->
+          <a href="https://github.com/mattmuroya/hawaii-state-parks-api">GitHub</a>
         </p>
       </td>
       <td width="50%">
@@ -87,4 +89,4 @@
       </td>
     </tr>
   </table>  
-</div>
+</div>-->
