@@ -1,6 +1,6 @@
 # Hi, I'm Matt!
 
-- 💼 Work as a software tester doing automation framework design and development
+- 💻 Work as a software tester doing automation framework development
 - 🎓 Pursing a B.S. in Computer Science at Oregon State University.
 - 📚 Currently studying database design and systems programming.
 - 🦀 Latest side interest: learning Rust!
