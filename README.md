@@ -1,9 +1,8 @@
 # Hi, I'm Matt!
 
-- 💼 Work as a software tester doing automation framework development
-- 🎓 Pursing a BS in Computer Science at Oregon State University
-- 📚 Currently studying database design and systems programming
-- ⚔️ Current side quest: learning [Rust](https://doc.rust-lang.org/book/)! 🦀
+- 🎓🦫 Studying computer science at Oregon State University
+- 📚👨🏻‍💻 Currently studying database design and systems programming
+- ⚔️🦀 Side quest: learning [Rust](https://doc.rust-lang.org/book/)!
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattmuroya&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=10&hide=python,html,css,scss,cmake,gherkin,procfile,glsl&exclude_repo=procedural-terrain-generator)](https://github.com/anuraghazra/github-readme-stats) -->
 
