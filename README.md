@@ -1,6 +1,6 @@
 # Hi, I'm Matt!
 
-- 🎓🦫 Studying computer science at Oregon State University
+- 🎓🦫 Pursing a BS in computer science at Oregon State University
 - 📚👨🏻‍💻 Currently studying database design and systems programming
 - ⚔️🦀 Side quest: learning [Rust](https://doc.rust-lang.org/book/)!
 
